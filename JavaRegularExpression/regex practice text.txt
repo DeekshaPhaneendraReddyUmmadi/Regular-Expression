@@ -1,0 +1,95 @@
+1. Basic Patterns:
+   a. apple, Banana, Cherry, dATE
+   b. 123, 45.67, -890, 12:34
+   c. Hello! How's it going? "Nice weather", 'maybe'.
+   d. cat mat bat hat sat fat
+
+2. Dates:
+   2023-08-15, 12/31/2024, 05.06.2025, 15-Jul-2023
+   30/02/2020 (invalid), 19-13-2021 (invalid)
+
+3. Phone Numbers:
+   123-456-7890, (555) 123-4567, +1 800 555 1234
+   9876.543.210, 12-3456-7890, +44 20 7946 0958
+
+4. Emails:
+   user@example.com, john.doe123@mail.co.uk, mary_smith+work@sub.domain.org
+   invalid@.com, @missingusername.com, user@invalid-.domain
+
+5. URLs:
+   https://www.example.com, http://blog.site.co.uk/path/?query=string
+   ftp://files.server.org, www.insecure-site.net, https://localhost:8080
+
+6. IP Addresses:
+   192.168.0.1, 10.0.0.255, 256.300.999.888 (invalid)
+   2001:0db8:85a3:0000:0000:8a2e:0370:7334
+   ::1 (IPv6 localhost)
+
+7. Special Cases:
+   A1b2-C3d4!E5f6, _under_score_, --double-hyphen--
+   $100.00, €50,00, ¥10000, ₹5,000.50
+
+8. HTML Tags:
+   <p>Paragraph</p>, <div class="container">, <img src="image.jpg" alt="photo"/>
+   <a href="#anchor">Link</a>, </br>, <invalid<tag>
+
+9. Credit Card-like Numbers:
+   4111 1111 1111 1111 (Visa pattern)
+   5500 0000 0000 0004 (Mastercard pattern)
+   3782 822463 10005 (Amex pattern)
+
+10. Miscellaneous:
+    HEX: #a3f113, #FFF, #ggg (invalid)
+    MAC: 00:1A:2B:3C:4D:5E
+    UUID: 550e8400-e29b-41d4-a716-446655440000
+    ZIP: 90210, 90210-1234
+
+Welcome to the Regex Practice Text!
+
+Here are some sample email addresses:
+- john.doe@example.com
+- jane_smith123@domain.co.uk
+- user.name+tag@sub.domain.org
+
+Phone numbers in various formats:
+- (123) 456-7890
+- 123-456-7890
+- 1234567890
+- +1 (123) 456-7890
+- 123.456.7890
+- 8993475623
+- 07562389934
+- 919934562389
+
+Dates in different formats:
+- 2023-10-15
+- 10/15/2023
+- October 15, 2023
+- 15th October 2023
+
+URLs to practice with:
+- https://www.example.com
+- http://example.org/path/to/resource
+- www.test-site.net
+- ftp://files.example.com
+
+Some random text with numbers:
+- The price is $45.99.
+- There are 3 apples and 5 oranges.
+- The temperature is -10 degrees Celsius.
+
+Special characters and patterns:
+- A string with special characters: !@#$%^&*()_+-=~`[]{}|;:'",.<>?/
+- A hexadecimal color code: #FF5733
+- A binary number: 101010
+
+Miscellaneous:
+- A sentence with a number: "I have 2 cats and 1 dog."
+- A quote: "To be or not to be, that is the question."
+- A list: 
+  1. First item
+  2. Second item
+  3. Third item
+
+End of the Regex Practice Text.
+    
